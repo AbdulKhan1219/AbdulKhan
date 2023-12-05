@@ -1,0 +1,4 @@
+"0","#With the code below we are going to run the linear regression on the training data"
+"0","linearmodel <- lm(weight ~ ., data = train_data)"
+"2","Error in eval(mf, parent.frame()) : object 'train_data' not found
+"
